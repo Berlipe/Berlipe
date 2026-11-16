@@ -1,27 +1,25 @@
-```html
-<div align="center">
+ <div align="center">
 
-  <img src="assets/gif.gif" width="100%" />
+<img src="assets/gif.gif" width="100%" />
 
-  <h2>୨୧ Olá, visitante!</h2>
+<h2>♡ Olá, visitante!</h2>
 
-  Seja bem-vindo(a) ao meu cantinho no GitHub ♡
+Seja bem-vindo(a) ao meu cantinho no GitHub.
 
-  Um espaço dedicado à tecnologia, programação,
-  criatividade e novos projetos.
+Um espaço dedicado à tecnologia, programação,
+criatividade e novos projetos.
 
-  <img src="assets/foto.png" width="85%" />
+<img src="assets/foto.png" width="85%" />
 
 </div>
 
-### ୨୧ Sobre mim
+### ♡ Sobre mim
 
-Sou um entusiasta de tecnologia que gosta de explorar,
-criar projetos e aprender coisas novas.
+Sou um entusiasta de tecnologia que gosta de explorar, criar projetos e aprender coisas novas.
 
 Tenho interesse em programação, Linux e desenvolvimento.
 
-### ୨୧ Interesses
+### ✦ Interesses
 
 - ♡ Tecnologia e programação
 - ♡ Linux e Open Source
@@ -30,11 +28,10 @@ Tenho interesse em programação, Linux e desenvolvimento.
 
 <div align="center">
 
-  ─────────── ୨୧ ───────────
+────────── ♡ ──────────
 
-  *Obrigado pela visita!*
+*Obrigado pela visita!*
 
-  feito com ♡
+feito com ♡
 
 </div>
-```
