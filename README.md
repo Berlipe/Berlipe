@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="assets/gif.gif" width="100%" />
+<img src="assets/gif.gif" width="85%" />
 
 <h2>♡ Olá, visitante!</h2>
 
