@@ -1,7 +1,5 @@
  <div align="center">
 
-<img src="assets/gif.gif" width="85%" />
-
 <h2>♡ Olá, visitante!</h2>
 
 Seja bem-vindo(a) ao meu cantinho no GitHub.
@@ -27,6 +25,8 @@ Tenho interesse em programação, Linux e desenvolvimento.
 - ♡ Jogos e animes
 
 <div align="center">
+
+<img src="assets/gif.gif" width="85%" />
 
 ────────── ♡ ──────────
 
